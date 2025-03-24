@@ -1,0 +1,3 @@
+[submodule "packages/apps/affirmator"]
+	path = packages/apps/affirmator
+	url = https://github.com/razzodev/affirmator.git
