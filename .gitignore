@@ -208,3 +208,5 @@ logs/
 .idea/
 .vscode/
 *.swp
+
+bun.lockb
